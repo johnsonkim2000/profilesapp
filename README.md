@@ -44,15 +44,3 @@ This project demonstrates how to build a secure, scalable, and cost-effective we
 5. **API Layer**: AWS AppSync provides real-time communication between the frontend and backend via GraphQL.
 
 ---
-
-## **Setup Instructions**
-### **Clone the Repository**:
-```bash
-git clone https://github.com/johnsonkim2000/profilesapp.git
-cd profilesapp
-npm install
-npm install -g @aws-amplify/cli
-amplify init
-amplify push
-npm run dev
-
