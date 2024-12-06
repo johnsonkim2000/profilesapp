@@ -48,8 +48,8 @@ This project demonstrates how to build a secure, scalable, and cost-effective we
 ## **Setup Instructions**
 ### **Clone the Repository**:
 ```bash
-git clone https://github.com/your-repo-name/web-app-aws.git
-cd web-app-aws
+git clone https://github.com/johnsonkim2000/profilesapp.git
+cd profilesapp
 npm install
 npm install -g @aws-amplify/cli
 amplify init
